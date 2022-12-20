@@ -34,5 +34,7 @@ Latent Dirichilet Allocation is a topic modelling technique that generates topic
    2. Stopping- Removing meaningless words
    3. Stemming - merging words that are equivalent in meanings
 4. We will check the frequency of words and from which topic they belong
+![image](https://user-images.githubusercontent.com/92949677/208643437-78544e55-78b3-4560-89ab-ed3d68b74a2a.png)
+5. Identified 7 topics using LDA. Evaluated the topics using coherence scores
    
 
